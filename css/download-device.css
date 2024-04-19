@@ -1,0 +1,8 @@
+,gpio-selector {
+	height: 20px;
+	margin-right: 10px;
+}
+
+#gpio-label {
+	margin-left: 20px;
+}

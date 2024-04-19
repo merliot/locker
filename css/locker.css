@@ -1,0 +1,15 @@
+#circuit {
+	align-items: center;
+}
+
+#led-btn {
+	margin: 20px 0 0 0;
+}
+
+#led-img {
+	height: 148px;
+}
+
+.tile #led-img {
+	height: 120px;
+}
